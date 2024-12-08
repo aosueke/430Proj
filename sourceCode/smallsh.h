@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/wait.h>
-#include "joblist.h"
+#include "listJob.h"
 
 #define EOL 1
 #define ARG 2
